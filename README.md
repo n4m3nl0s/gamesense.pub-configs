@@ -85,7 +85,7 @@ Used Luas
 
 </details>
 
-## [Other LUAs]
+## Other LUAs
 <details>
 
 Luas
